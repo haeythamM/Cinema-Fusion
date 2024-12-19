@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <rect x="0" y="0" width="200" height="200" fill="#800020" />
+  <text x="100" y="220" font-size="20" text-anchor="middle" fill="black">Deep Maroon</text>
+  <rect x="200" y="0" width="200" height="200" fill="#D4AF37" />
+  <text x="300" y="220" font-size="20" text-anchor="middle" fill="black">Gold</text>
+  <rect x="400" y="0" width="200" height="200" fill="#FAEBD7" />
+  <text x="500" y="220" font-size="20" text-anchor="middle" fill="black">Antique White</text>
+  <rect x="600" y="0" width="200" height="200" fill="#36454F" />
+  <text x="700" y="220" font-size="20" text-anchor="middle" fill="black">Charcoal Gray</text>
+</svg>
+
+<!-- Deep Maroon (#800020): Rich and vintage, perfect for evoking elegance.
+Gold (#D4AF37): Luxurious and classic, symbolizing opulence.
+Antique White (#FAEBD7): Soft and aged, giving a nostalgic touch.
+Charcoal Gray (#36454F): Sophisticated and deep, ideal for grounding the palette. -->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg baseProfile="tiny" height="150px" version="1.2" width="600px"
+    xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs />
+    <rect fill="#5A1F57" height="100" width="150" x="10" y="10" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="85.0" y="130">Deep Burgundy</text>
+    <rect fill="#F0C987" height="100" width="150" x="170" y="10" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="245.0" y="130">Champagne Gold</text>
+    <rect fill="#FFFFF0" height="100" width="150" x="330" y="10" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="405.0" y="130">Ivory White</text>
+    <rect fill="#2F4F4F" height="100" width="150" x="490" y="10" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="565.0" y="130">Slate Gray</text>
+</svg>
+
+
+<!--
+
+Deep Burgundy (#5A1F57): Sophisticated and rich, perfect for a bold modern look.
+Champagne Gold (#F0C987): Soft, luxurious, and modern.
+Ivory White (#FFFFF0): Clean and warm, ideal for a fresh aesthetic.
+Slate Gray (#2F4F4F): Sleek and modern, grounding the palette.
+
+-->

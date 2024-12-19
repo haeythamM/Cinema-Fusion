@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg baseProfile="tiny" height="200px" version="1.2" width="700px"
+    xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs />
+    <rect fill="#1B263B" height="100" width="130" x="20" y="20" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="85.0" y="135">Dark Blue (#1B263B)</text>
+    <rect fill="#FFC300" height="100" width="130" x="170" y="20" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="235.0" y="135">Gold (#FFC300)</text>
+    <rect fill="#D9D9D9" height="100" width="130" x="320" y="20" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="385.0" y="135">Light Gray (#D9D9D9)</text>
+    <rect fill="#C70039" height="100" width="130" x="470" y="20" />
+    <text fill="black" font-size="12px" text-anchor="middle" x="535.0" y="135">Crimson (#C70039)</text>
+    <rect fill="#FFFFFF" height="100" width="130" x="620" y="20" />
+    <text fill="gray" font-size="12px" text-anchor="middle" x="685.0" y="135">White (#FFFFFF)</text>
+</svg>
+<!-- website. The colors are designed to convey a cinematic and modern feel, blending elegance with
+boldness:
+
+Dark Blue (#1B263B): For a cinematic and elegant base.
+
+Gold (#FFC300): To add luxury and vibrancy.
+
+Light Gray (#D9D9D9): For a neutral and modern touch
+
+Crimson (#C70039): To evoke passion and energy
+
+
+White (#FFFFFF): For a clean and professional look -->
